@@ -10,7 +10,16 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/master/611d79b11b7
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b1c9518f-6637-4712-a17b-f0a46bdffc0b/main.m3u8?hdnts=st=1714770971~exp=1714774571~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/b1c9518f-6637-4712-a17b-f0a46bdffc0b/*!yuppTVCom_61_-1_983c2e372a244801_AE_94.59.88.118/payload/yuppTVCom_61_-1_983c2e372a244801_AE_94.59.88.118/*~hmac=9db602c5122d5a0658af84fb0813e0eb6ea052ea5a9eb6a2a62f2d6f20b791d2&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=3941&ads.channel_name=Wion&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",DBC jakaria Tv
-http://goomflix.xyz/wp-content/plugins/internet-connection-status/assets/beep.mp3
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",mon bangla Jakaria
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",channel S
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
