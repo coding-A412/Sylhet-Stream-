@@ -32,3 +32,6 @@ https://tv5.hoichoi24.com/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",IPL Jakaria 
 http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",ATN nation
+https://s.id/25wEz
