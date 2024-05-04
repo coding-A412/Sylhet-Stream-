@@ -50,3 +50,9 @@ https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Republic Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8?hdnts=st=1714791012~exp=1714794612~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/*!yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/payload/yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/*~hmac=4bdd89344276f0c5ed532741486487cc17c64ef833ed486e878ed16c900f9caf&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=NEWS&ads.channel=6242&ads.channel_name=RepublicBangla&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",একুশে টিভি
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8", TBN 24 Jakaria
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
