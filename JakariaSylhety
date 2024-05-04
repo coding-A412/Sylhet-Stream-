@@ -30,5 +30,5 @@ http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports 2
 https://tv5.hoichoi24.com/1101/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="jakaria tv" tvg-logo="",IPL Jakaria Tv
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",IPL Jakaria 
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
