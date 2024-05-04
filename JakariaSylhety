@@ -38,3 +38,12 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Deepto Tv
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Colors Bangla
+https://livegeoroueu.akamaized.net/120723/smil:colorsbanglahd1.smil/chunklist_b896000.m3u8?hdntl=exp=1714876735~acl=!*/120723/smil:colorsbanglahd1.smil/*!yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/payload/yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/*~data=hdntl~hmac=6e5329add3abfecaa440692d7cddd9b25a839bd6e932e5e136d5207e9eebdb66
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",রুপসী বাংলা
+https://catchup.yuppcdn.net/amazonv2/36/preview/rupashibangala/master/chunklist.m3u8?hdnts=st=1714790478~exp=1714791078~acl=!*/36/preview/rupashibangala/*!yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/payload/yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/*~hmac=98486524d61f95ab44446cd3ce240c151e4cc57f76de275bda0a1cb296792ef4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=238&ads.channel_name=RupashiBangla&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",TV9 Bangla
+https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/main.m3u8?hdnts=st=1714790750~exp=1714794350~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/*!yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/payload/yuppTVCom_61_-1_850ba0a8a9354236_AE_94.59.88.118/*~hmac=892d339e386a4a51d7816bcc2df0311cdfc6515ff74649b228e416d9a61fc940&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=NEWS&ads.channel=6378&ads.channel_name=TV9Bangla&ads.network_name=yupptv&ads.user=0
