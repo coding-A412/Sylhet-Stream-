@@ -149,3 +149,9 @@ http://121.91.61.106:8000/play/a042/index.m3u8
 
 EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", A Sports
 http://121.91.61.106:8000/play/a03o/index.m3u8
+
+#EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Bangla Tv
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/tracks-v1a1/mono.m3u8
+
+#EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Bijoy Tv
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1a1/mono.m3u8
