@@ -37,7 +37,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1715096714&md5=GBzKTPSQIwyuHrPPrrryrw&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports 2
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1715096714&md5=GBzKTPSQIwyuHrPPrrryrw&user=ff39d05fef0749028389f28943b73363
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png", Star Sports 2
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -135,15 +135,11 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Sylhety"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Somoy Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
 #EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="STv"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", BTV Jakaria 
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 
