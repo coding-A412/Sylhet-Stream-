@@ -52,7 +52,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1715096714&md5=GBzKTPSQIwyuHrPPrrryrw&user=ff39d05fef0749028389f28943b73363
+https://webudit.hlsjs.ru/lb/premium270/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Android
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports 2
 http://103.151.60.214:7444/1101/video.m3u8
