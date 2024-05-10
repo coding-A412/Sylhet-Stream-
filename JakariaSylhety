@@ -121,7 +121,7 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=W2_D_boMmlrUNVnYXve_rA&expires=1715121212&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=u7scmgaevz&v=1&n=RIYAN_20240427_004722_%E2%8C%9B+IPHONE+14+PRO+MAX+by+Light+Editz+%28AUTO%29+LMC8.4+R13.jpg",Zee bangla 2
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8?expires=1715121212&md5=W2_D_boMmlrUNVnYXve_rA&user=ff39d05fef0749028389f28943b73363
+http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=u7scmgaevz&v=1&n=RIYAN_20240427_004722_%E2%8C%9B+IPHONE+14+PRO+MAX+by+Light+Editz+%28AUTO%29+LMC8.4+R13.jpg",WOW Kids
 https://livegeoroueu.akamaized.net/270723/smil:wowkidzhin.smil/chunklist_b2628000.m3u8?hdntl=exp=1715096809~acl=!*/270723/smil:wowkidzhin.smil/*!yuppTVCom_61_-1_5690f2ffddb5424d_AE_94.59.88.118/payload/yuppTVCom_61_-1_5690f2ffddb5424d_AE_94.59.88.118/*~data=hdntl~hmac=f5231724ba613b433e9275e72df01cc93416c77deafa2873faa8864415d85a9c
@@ -156,8 +156,8 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Sylhety"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Somoy Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
