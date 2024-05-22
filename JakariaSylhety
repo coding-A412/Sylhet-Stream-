@@ -52,10 +52,10 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports
-https://webudit.hlsjs.ru/lb/premium270/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/&user-agent=Android
+http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports 2
-http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports IPTV
+http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png", Star Sports 2
 http://41.205.93.154/STARSPORTS1/index.m3u8
