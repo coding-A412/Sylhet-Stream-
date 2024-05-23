@@ -12,6 +12,9 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4c757c83d5560c3cd
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",24/7 Motu Patlu
 http://xtv.ooo:8080/live/415663775/826262627/307079.ts
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", Nagorik Tv
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",G Tv
 http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
 
@@ -120,6 +123,16 @@ https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star sports1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Fast Sports
+http://121.91.61.106:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",A Sports
+http://121.91.61.106:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",
+
+
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Jio Cenama 
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
@@ -174,11 +187,9 @@ https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Raiyan"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
 
-#EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Sadia"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", FasT SporTs
-http://121.91.61.106:8000/play/a042/index.m3u8
+
+
 
 
 
