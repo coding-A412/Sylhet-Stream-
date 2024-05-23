@@ -42,6 +42,9 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", Star jalsa Hd
 http://xtv.ooo:8080/Sehrish/12345/245898
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", Star jalsa Hd 2
+http://portal.code-crafters.app/app/play.m3u8?id=11433
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png",Colors Bangla Hd
 http://xtv.ooo:8080/Sehrish/12345/245895
 
