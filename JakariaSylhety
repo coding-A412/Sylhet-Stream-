@@ -13,7 +13,7 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4c757c83d5560c3cd
 http://xtv.ooo:8080/live/415663775/826262627/307079.ts
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",G Tv
-http://103.151.60.214:7444/1102/video.m3u8
+http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",B TV 
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
@@ -174,13 +174,13 @@ https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Raiyan"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", A Sports
+http://121.91.61.106:8000/play/a03o/index.m3u8
+
+#EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Sadia"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", FasT SporTs
+http://121.91.61.106:8000/play/a042/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Sylhety"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Somoy Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.m3u8
-#EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Sadia"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", FasT SporTs
-http://121.91.61.106:8000/play/a042/index.m3u8
-
-EXTITINF:-1 tvg-id="Deepto Tv"tvg-group="Raiyan"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png", A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
