@@ -57,8 +57,17 @@ http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",RTv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", RTV Music
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", বৈশাখী টিভি
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Global Tv
+http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Bangla Vision 
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Nexas Tv
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",G Tv
 http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
