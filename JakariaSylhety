@@ -60,6 +60,30 @@ https://tgaadi-web.tech/api/spice.php?tv=8810
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Zee Bangla Cinema
 https://tgaadi-web.tech/api/spice.php?tv=3969
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",MR.Bean 24/7
+https://tgaadi-web.tech/api/spice.php?tv=9407
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", MR. Bean Cartoon
+https://tgaadi-web.tech/api/spice.php?tv=9408
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Nickolodeon Hd
+https://tgaadi-web.tech/api/spice.php?tv=3249
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Hungama Kids
+https://tgaadi-web.tech/api/spice.php?tv=9400
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Oggy cartoon 24/7
+https://tgaadi-web.tech/api/spice.php?tv=5053
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Disney
+https://tgaadi-web.tech/api/spice.php?tv=725
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Nick Junior
+https://tgaadi-web.tech/api/spice.php?tv=3248
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Nick Plus
+https://tgaadi-web.tech/api/spice.php?tv=643
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Talking Tom
 https://ythls.armelin.one/channel/UCm3hAp1m1xlAz0ve_EKAo4g.m3u8
 
