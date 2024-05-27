@@ -75,6 +75,24 @@ https://tgaadi-web.tech/api/spice.php?tv=8810
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Zee Bangla Cinema
 https://tgaadi-web.tech/api/spice.php?tv=3969
 
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Colors Cineplex 
+https://port.denver1769.in/Share2.php?id=9378
+
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Colors Cineplex Bollywood
+https://port.denver1769.in/Share2.php?id=37074
+
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Star Movie Selected Hd
+https://port.denver1769.in/Share2.php?id=218
+
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Sony Pix HD
+https://port.denver1769.in/Share2.php?id=147
+
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",Movie Now Sd
+https://port.denver1769.in/Share2.php?id=152388
+
+EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",MTV Beast HD
+https://port.denver1769.in/Share2.php?id=153
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",& Pictures HD
 https://port.denver1769.in/Share2.php?id=231
 
@@ -136,7 +154,7 @@ http://121.91.61.106:8000/play/a04g/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",CB cinema colors bangla
-http://starshare.live:8080/live/Sylvia/Sylvia/271038.m3u8
+https://port.denver1769.in/Share2.php?id=271038
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -244,12 +262,21 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports
-http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
+https://port.denver1769.in/Share2.php?id=130714
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports HD
+https://port.denver1769.in/Share2.php?id=113069
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",T Sports IPTV
 http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png", Star Sports 2
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star Sports 1
+https://port.denver1769.in/Share2.php?id=9397
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star Sports 2
+https://port.denver1769.in/Share2.php?id=9398
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png", Star Sports Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",ATN Jakaria
@@ -294,8 +321,8 @@ https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",৭১ টিভি
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star sports1
-http://watchindia.net:8880/live/83023/62335/2186.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star sports 1 4K
+https://port.denver1769.in/Share2.php?id=98864
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
@@ -303,19 +330,19 @@ http://121.91.61.106:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",A Sports
 http://121.91.61.106:8000/play/a03o/index.m3u8
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",BAN vs USA SD
-https://sports.lvyclv.com/live/m33292792/playlist.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Willow 
+https://port.denver1769.in/Share2.php?id=215
 
 
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Jio Cenama 
-https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Willow Xtra
+https://port.denver1769.in/Share2.php?id=5040
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Jio Cenama Hindi
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",TNT 1
+https://port.denver1769.in/Share2.php?id=23564
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",IPL BANGLA 
-http://starshare.live:8080/live/T20C227070225533/202210886677/304286.ts
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Ten Sports
+https://port.denver1769.in/Share2.php?id=98
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=pxpxzgaf2a&v=1&n=kmc_20240504_225320.png", Duronto Tv
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
@@ -351,7 +378,7 @@ http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Independent Tv
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+https://port.denver1769.in/Share2.php?id=423
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=a8zgp6z2eh&v=1&n=kmc_20240506_004034.png",Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
