@@ -183,8 +183,14 @@ http://121.91.61.106:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Pogo
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Jio kids
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1430&e=.m3u8
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Sun Bangla
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1669&e=.m3u8
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",CB cinema colors bangla
-https://port.denver1769.in/Share2.php?id=271038
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1657&e=.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=tknn69qydu&v=1&n=kmc_20240508_181938.png",ATN Bangla
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239078
