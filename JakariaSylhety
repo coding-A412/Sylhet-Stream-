@@ -376,12 +376,15 @@ http://121.91.61.106:8000/play/a042/index.m3u8
 http://121.91.61.106:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Willow 
-https://port.denver1769.in/Share2.php?id=215
+https://jancdn-b.bunycdn.com/live/1080pa.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Willow Xtra
 https://port.denver1769.in/Share2.php?id=5040
+
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Astro Cricket 
+http://public.iptv18.tech/tata.php?id=206091&e=.m3u8
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",TNT 1
 https://port.denver1769.in/Share2.php?id=23564
