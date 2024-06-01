@@ -236,7 +236,7 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4c757c83d5560c3cd
 http://xtv.ooo:8080/live/415663775/826262627/307079.ts
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", Nagorik Tv
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37", Nagorik Tv 2
 http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
@@ -376,8 +376,8 @@ https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",৭১ টিভি
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Jakaria TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star sports 1 4K
-http://172.16.29.3:8080/hls/sports4.m3u8
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Sports" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Star sports 1 4K
+http://tv.cloudcdn.me/live.ts?channelId=293&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://files.fm/u/xh2wmaqxgc?k=dc0bec37",Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
