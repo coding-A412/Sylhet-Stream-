@@ -28,6 +28,9 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@N
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Sports"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=zsqu4c88qw&v=1&n=kmc_20240508_181809.png",Ban Vs Ind Eng
 http://opplex.tv:8080/live/121151412/644261812/167583.ts
 
+#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=zsqu4c88qw&v=1&n=kmc_20240508_181809.png",Sony Ten 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Intro Jakaria TV"tvg-logo="https://fv5-2.failiem.lv/thumb.php?i=zsqu4c88qw&v=1&n=kmc_20240508_181809.png",Sony Ten 3
 https://toxicify.pro/sliv/stream.php?id=sony-ten-3&e=.m3u8
 
