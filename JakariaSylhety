@@ -27,17 +27,17 @@ http://fsdsdad.b-cdn.net/101/index.m3u8?token=romijul-jes-2028
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=ypk4azy3ry&v=1&n=download.png",Nagorik Tv Hd
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=p4BYZ_zefn9TaK_1DA1W4g&expires=1717635133&user=c15be118d93a464dabf77260596012cf
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Star Sports 1
+http://public.iptv18.tech/tata.php?id=12148&e=.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Star Sports 2
+http://public.iptv18.tech/tata.php?id=12150&e=.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Star Sports 1 Hindi 
+http://public.iptv18.tech/tata.php?id=12149&e=.m3u8
 
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="", Star Selecte 1
+http://public.iptv18.tech/tata.php?id=12151&e=.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
