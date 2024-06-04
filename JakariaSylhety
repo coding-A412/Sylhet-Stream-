@@ -39,8 +39,8 @@ http://public.iptv18.tech/tata.php?id=12149&e=.m3u8
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://fv5-3.failiem.lv/thumb.php?i=4k8u9vgrst&v=1&n=images.jpeg", Star Selecte 1
 http://public.iptv18.tech/tata.php?id=12151&e=.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="",
-
+#EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://yt3.googleusercontent.com/owKZXHp_Jd7tLPXXmdlnpAzuw5P5tBIHYeFQX7V1pgQaqexHh0kcfXLq8320g1ezFzeznKU-dg=s900-c-k-c0x00ffffff-no-rj",T sports
+http://public.iptv18.tech/tata.php?id=12104&e=.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
