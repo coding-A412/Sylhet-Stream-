@@ -42,10 +42,10 @@ http://public.iptv18.tech/tata.php?id=12151&e=.m3u8
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://yt3.googleusercontent.com/owKZXHp_Jd7tLPXXmdlnpAzuw5P5tBIHYeFQX7V1pgQaqexHh0kcfXLq8320g1ezFzeznKU-dg=s900-c-k-c0x00ffffff-no-rj",T sports
 http://public.iptv18.tech/tata.php?id=12104&e=.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
 
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="",Sonic Bangla
 
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
