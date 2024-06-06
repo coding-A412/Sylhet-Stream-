@@ -145,13 +145,13 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHC9TsTiZk2byTduiO3etsiQ
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7djBVYwQQ8puRypJMIXDpMIydpp4-EHDddA&usqp=CAU",SA TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/hexa.m3u8?id=256
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHH70aj_9qw9tTWpzR-KHj4g/ts
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
 
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda Tv
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGsAJzNHNf0dixKtVCRPwfU/ts
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
