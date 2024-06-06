@@ -21,6 +21,9 @@ https://proximitybd.xyz/hotstar_eng.php?m3u8=https://pslive.netfy.app/T20live/t2
 #EXTINF:-1 tvg-id="Jakaria Tv"tvg-group="Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aaPskRV9hTYEO228nb-ZrQUvVuqTeKyAbg&s",World cup Hindi Hotstar
 https://proximitybd.xyz/hotstar.php?m3u8=https://pslive.netfy.app/T20live/t20wc_hindi.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s",Sky Cricket
+https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Cricket_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Ta3lfU3BvcnRzX0NyaWNrZXRfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQudHYvYXV0aG9yaXplLWNoYW5uZWwiLCJpc1ZJUCI6IjAiLCJleHAiOjE3MTc2Nzg0MDJ9.aYvtBjGjXVS-NBBUEhOla8PB0qVbZ8wjuXpwyi7n0s0&ref=https://beesport.tv/
+
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://fv5-4.failiem.lv/thumb.php?i=ypk4azy3ry&v=1&n=download.png",Nagorik Tv
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 
@@ -71,6 +74,24 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Indian Bangla"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png",Zee Bangla
+https://tsneh.vercel.app/zeebangla.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Indian Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrq8WGnJYw7a-0-cVbKSkuw2EKp-IVLAsKA&s",Zee Bangla Cinema
+http://sansat.net:88/02029761595924/9d089925dc60a821/100702
+
+#EXTINF:-1 tvg-id=""tvg-group="Indian Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsa
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-id=""tvg-group="Indian Bangla"tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj",Colors Bangla 
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
+
+#EXTINF:-1 tvg-id=""tvg-group="Indian Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png",Colors Bangla Cinema
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1657&e=.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
