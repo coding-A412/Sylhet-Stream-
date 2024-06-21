@@ -21,6 +21,9 @@ https://directes3-tv-int.ccma.cat/live-content/tvi-hls/bitrate_2.m3u8
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Copa America 3
 https://1rdk.short.gy/FS1-60fps/Join-TG-@HimelOP_Official.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Copa America 4
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/13lN0zDs8KfwfSh22YjMuGR3OoPXYUP9bFn9I34c-MrASzJNQTcNL1GGhh5nxIrMdFfTJoWASYZ0vzn_7wuK_g/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_playlist.m3u8?type=live
+
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Toffee Eng
 https://t.ly/Toffee-Match1-EN/Zubayer_Op.m3u8
 
