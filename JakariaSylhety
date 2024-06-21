@@ -27,6 +27,12 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/13lN0zDs8KfwfSh22YjMu
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Copa America 5
 https://video-weaver.lhr03.hls.live-video.net/v1/playlist/CtAFbtdCHSpVvIwNdTf7NS_-hXidvyb4vssl8zLo-pOznaR0RslMJ_GwxM6yPSvKopJDzXCAnvNgBZD4jijdKyG5P4P7s3pPRZHrMrecgPFsCXqW9j3m5JBEdSSFwjE8gwkRfMIo8B1ICfbBx0zoovzVruJg-AC7XzByw4lwUT27uHInRKrRGfHAJrkFhvx1y0EMBRC23hZJzlCvI-gljIcYzFb2NwP4DFXu8Q-D_hrbkaIGP3vGLEgoO0s_YeeLaq-eMcUvRMj0ru23sXJ--YwsJIaZjnzYBNWZ5c4DEudRyq8srZyvB6vAyGWZa9GUK9WO5Es8q7_rw3_rUKkVhMqWA5yesJXbF7D83Twuv8rRSa43UKd6gim1Z8K7LstggfYJUHw17rC7QW-xTuErWsl-jivrm3mSnv7zGZwXD27OuxcIl0o5wsavR1IZr33nU1ikyOJ8weCH9Uyr4J_oNsJFr1ZQAOydNztucu6QevSTAshgrQLpU6GPvJA0st-QsNIXNyuUmo3qt15dXz4qViPq46V_IKfUtbUPryvDdxWqDM4T-Mw8BFRlWfsdhmo7eh_pIsk6ngegoCfaoK3oBOpkQ9AP77IaUCE-1NXjvbAzJaQ_JD5MJHB1bgpS4we1ZxYM94P_FV_V-FJtyeC5stQvGRzjGmDv1ZillzARMShecFSQv10Yx4mbZOPJGDapWBuKBNSvtQaw1H-zTlwkKpqg_bAcRsY5NILBsFYaTZOc-v3imjjY3f75wIrFP2hjZYFoJuwmaBooCnlqbbqybtdZSZslstTyBt8sPpds3Hi4K-lVdfIEsUGDBYt3T5BW-sSuimYBVv1eMv9Qti_4drSoMGA0iznLfWxkV3EuXu8gj5UMaPwcBsrG9vYzCxeGFYsar23MMSW25XbGmOpYFk8ERt2HeGsCQKooQk-JCjsZFUMWMX-SaXUNxvBo6htxKHM-Ggw7Ap-T8NeQp6r3j5IgASoJZXUtd2VzdC0yMNwJ.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Copa America 6
+https://pull.niues.live/live/stream-254545_lsd.m3u8?auth_key=1718931916-0-0-362005d12dcf7dbb4f631d7064477a32
+
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Super Xtreme Copa America 7
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Toffee Eng
 https://t.ly/Toffee-Match1-EN/Zubayer_Op.m3u8
 
