@@ -85,7 +85,7 @@ http://public.iptv18.tech/tata.php?id=12151&e=.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://yt3.googleusercontent.com/owKZXHp_Jd7tLPXXmdlnpAzuw5P5tBIHYeFQX7V1pgQaqexHh0kcfXLq8320g1ezFzeznKU-dg=s900-c-k-c0x00ffffff-no-rj",T sports 2
-http://bdix.proximitybd.xyz/tsp.php?id=live-02
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jnFJgVcP-oTOtKHdfzdbMw&expires=1719591361&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 https://bdviptv.000webhostapp.com/ts/tt.php?id=astrocric
