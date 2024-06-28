@@ -87,6 +87,9 @@ https://stream2.thenayeemparvez.xyz/BEN_GAZITV/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://yt3.googleusercontent.com/owKZXHp_Jd7tLPXXmdlnpAzuw5P5tBIHYeFQX7V1pgQaqexHh0kcfXLq8320g1ezFzeznKU-dg=s900-c-k-c0x00ffffff-no-rj",T sports 2
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jnFJgVcP-oTOtKHdfzdbMw&expires=1719591361&user=c15be118d93a464dabf77260596012cf
 
+#EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://yt3.googleusercontent.com/owKZXHp_Jd7tLPXXmdlnpAzuw5P5tBIHYeFQX7V1pgQaqexHh0kcfXLq8320g1ezFzeznKU-dg=s900-c-k-c0x00ffffff-no-rj",T sports 3
+https://cdn.querysports.com/hls/copa_1080.m3u8
+
 #EXTINF:-1 tvg-id=""tvg-group="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 https://bdviptv.000webhostapp.com/ts/tt.php?id=astrocric
 
