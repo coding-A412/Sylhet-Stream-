@@ -231,8 +231,8 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png",Ananda Tv
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGsAJzNHNf0dixKtVCRPwfU/ts
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",Gazi Tv
+http://103.151.60.214:7444/1102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
