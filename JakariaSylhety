@@ -165,8 +165,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@s
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",ATN BANGLA
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1720199195&md5=SHTe2p1-0hbHwbr7xSX3Yg&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF", ATN Bangla News
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239075
