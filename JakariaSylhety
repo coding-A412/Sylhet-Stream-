@@ -75,8 +75,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@s
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent Tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Massranga Tv 
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv 
+http://xtv.ooo:8080/4412823896/7155272299/245904
 
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
