@@ -16,67 +16,67 @@ http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 https://evbr.short.gy/BDStreamHub/Sangsad_Television.m3u
 
 #EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
-https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
+http://mrking.site/dd.m3u8?id=3137
 
-#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishaki Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
+#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel i
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
-#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN Bangla
+http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
 
+#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png",ATN Bangla News
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
 
-#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv 2
+https://evbr.short.gy/Bdstreamhub/telegram_Join_@bdstreamhub/Desh_Tv.m3u8
 
-#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTv
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTv Music 
+https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
-#EXTINF:-1 tvg-id="BD"tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTv Music 2
+https://evbr.short.gy/Bdstreamhub/telegram_Join_@bdstreamhub/Rtvmusic.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",NTv 
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey Tv
+https://evbr.short.gy/Bdstreamhub/telegram_Join_@bdstreamhub/Etv.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=3960&deviceMac=00:1A:79:09:AC:16
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv 2
+https://evbr.short.gy/Bdstreamhub/telegram_Join_@bdstreamhub/mytv.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
+http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy Tv
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent Tv
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Massranga Tv 
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
-
-#EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
-
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
 
