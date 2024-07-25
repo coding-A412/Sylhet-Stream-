@@ -84,7 +84,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:
 #EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://images.app.goo.gl/5FWWPBmTe1vWxAH98",Jamuna Tv
+#EXTINF:-1 tvg-id=""tvg-group="BD"tvg-logo="https://bd.linkedin.com/company/jamuna-television-ltd.",Jamuna Tv
 http://xtv.ooo:8080/4412823896/7155272299/245917
 
 #EXTINF:-1 tvg-id=""tvg-group=""tvg-logo="",
