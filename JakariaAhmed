@@ -9,6 +9,9 @@
 #EXTINF:-1 ,Sangshad TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
+#EXTINF:-1 ,Super hungama
+https://bdix.proximitybd.xyz/port/cdn.php?id=3673&e.m3u8
+
 #EXTINF:-1 ,BTv
 http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 
